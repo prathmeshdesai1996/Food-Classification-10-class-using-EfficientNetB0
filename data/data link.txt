@@ -1,0 +1,9 @@
+Run the following code in google colab to download and unzip the data
+
+For 10% of data 
+
+!wget https://storage.googleapis.com/ztm_tf_course/food_vision/10_food_classes_10_percent.zip
+
+For 100% of data
+
+!wget https://storage.googleapis.com/ztm_tf_course/food_vision/10_food_classes_all_data.zip
